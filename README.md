@@ -27,17 +27,23 @@ Connection String:
 
 -------------------------------------------------------------------------------------
 Related Videos:
-1. Create Role Based User Management API Using Dynamic Policies In Asp.Net Core Web API:    • Create User Management (Role Based) API Wi...  
+1. Create Role Based User Management API Using Dynamic Policies In Asp.Net Core Web API:
+https://www.youtube.com/watch?v=beIEysfQxGo
 
-2. Connect Flutter With Asp.Net Core Web API To Run On Emulator & Real Device:    • Connect Flutter With Asp.Net Core Web API ...  
+2. Connect Flutter With Asp.Net Core Web API To Run On Emulator & Real Device:
+https://www.youtube.com/watch?v=PAY6TqIEVZI
 
-3. Create Role Based User Management App In Flutter With Asp.Net Core Web API as Backend From Scratch:    • Create User Management (Role Based) Flutte...  
+3. Create Role Based User Management App In Flutter With Asp.Net Core Web API as Backend From Scratch:
+https://www.youtube.com/watch?v=Jdil0z11HG4
 
-4. How To Create Singleton Class in Flutter Dart:    • How To Create Singleton Class in Flutter Dart  
+4. How To Create Singleton Class in Flutter Dart:
+https://www.youtube.com/watch?v=cErZscXzf8s
 
-5. Create Custom Login, Registration, Email Verify And Forgot Password Pages In Asp.Net Core MVC App:    • Create Custom Login, Registration, Email V...  
+5. Create Custom Login, Registration, Email Verify And Forgot Password Pages In Asp.Net Core MVC App:
+https://www.youtube.com/watch?v=hthzKj05w3w
 
-6. ASP.NET Core Web API with JWT Authentication & Refresh Tokens using SQL Server + Identity Server:    • Asp.Net Core Web API with JWT Authenticati...  
+6. ASP.NET Core Web API with JWT Authentication & Refresh Tokens using SQL Server + Identity Server:
+https://www.youtube.com/watch?v=ZBKJZyccwcE
 
 -------------------------------------------------------------------------------------
 Time Stamps:
